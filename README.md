@@ -9,7 +9,6 @@ Facilita el balanceo de carga y tolerancia a fallos.
 
 ## Tecnología de desarrollo
 - [Spring-boot ](https://spring.io/projects/spring-boot)
-- 
 - Java 11
 - Maven
 - IntelliJ IDEA
